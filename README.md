@@ -17,4 +17,4 @@ application development.
     - Improved semantic segmentation.
     - Wave based damage detection algorithms.
 
-- 📫 How to reach me marcialcz@gmail.com or marcial.contreras@ern.com.mx at ERN.
+- 📫 How to reach me marcialcz@gmail.com
