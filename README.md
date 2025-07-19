@@ -17,4 +17,3 @@ application development.
     - Improved semantic segmentation.
     - Wave based damage detection algorithms.
 
-- 📫 How to reach me marcialcz@gmail.com
